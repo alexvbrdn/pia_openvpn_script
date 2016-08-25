@@ -1,6 +1,6 @@
 # pia_openvpn_script
 
 To use this script, you just have to run the following command:
-```bash
+```shell
 bash VPN.bash
 ```
